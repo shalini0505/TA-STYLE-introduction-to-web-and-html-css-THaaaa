@@ -1,0 +1,47 @@
+h2{
+    color: rgb(127, 255, 138);
+    height: auto;
+    font-size: 200%;
+}
+div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+body{
+    background-color: rgba(0, 81, 255, 0.808);
+}
+h1{
+   color: aliceblue;
+   text-align: center;
+   font-size: 250%;
+}
+address{
+    text-align: center;
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+
+}
+p{
+    color: aliceblue;
+
+}
+div i{
+    color: rgb(128, 6, 6);
+    text-decoration: dotted; 
+    text-align: center;
+}
