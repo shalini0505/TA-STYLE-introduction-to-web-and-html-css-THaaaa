@@ -1,0 +1,27 @@
+h2{
+    color: rgb(1, 88, 20);
+}
+address{
+    color: aliceblue;
+   word-spacing : 2px;
+}
+body{
+    background-color: rgb(114, 84, 245);
+}
+a{
+    text-decoration-line: 10px;
+      color: red;
+    }
+h1{
+    color: aliceblue;
+    word-spacing: normal;
+}
+h3{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+br{
+    color: aliceblue;
+}
